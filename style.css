@@ -1,1 +1,86 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #3a6ea5;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo img {
+    max-width: 120px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    border-radius: 8px;
+}
+
+#how-it-works .step {
+    margin: 20px 0;
+    text-align: center;
+}
+
+#how-it-works .step img {
+    max-width: 80px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#why-choose ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+#why-choose ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+#get-started {
+    background-color: #3a6ea5;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#get-started strong {
+    font-size: 1.5rem;
+}
+
+#faq {
+    background-color: #eaeaea;
+    padding: 20px;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
 
